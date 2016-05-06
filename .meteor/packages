@@ -27,6 +27,13 @@ datariot:ganalytics
 accounts-ui
 accounts-password
 twbs:bootstrap
-insecure
 fortawesome:fontawesome
+spiderable
+fastclick
+zimme:active-route
+gwendall:auth-client-callbacks
+dburles:collection-helpers
 autopublish
+dburles:google-maps
+
+
